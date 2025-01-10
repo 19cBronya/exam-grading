@@ -1,0 +1,5 @@
+{
+    cmdlines = {
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise00"
+    }
+}
