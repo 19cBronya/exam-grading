@@ -1,0 +1,5 @@
+{
+    cmdlines = {
+        "xmake lua /usr/share/xmake/actions/build/cleaner.lua --project=/home/ava/exam-grading/learning-cxx/exercises"
+    }
+}

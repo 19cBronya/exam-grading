@@ -1,5 +1,21 @@
 {
     cmdlines = {
-        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise00"
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise00",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise00",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise00",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise01",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise01",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise02",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise02",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise02",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise02",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise02",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise02",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise03",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise03",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise04",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise04",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise05",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise05"
     }
 }

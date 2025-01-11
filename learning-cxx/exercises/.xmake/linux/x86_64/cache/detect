@@ -1,0 +1,6 @@
+{
+    find_program = {
+        git = "/usr/bin/git",
+        ping = "/usr/bin/ping"
+    }
+}
