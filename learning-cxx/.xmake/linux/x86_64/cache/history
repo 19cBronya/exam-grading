@@ -10,6 +10,11 @@
         "xmake run learn 3",
         "xmake run learn 4",
         "xmake run learn 5",
-        "xmake run learn 5"
+        "xmake run learn 5",
+        "xmake run learn 5",
+        "xmake run learn 5",
+        "xmake run learn 5",
+        "xmake run learn 6",
+        "xmake run learn 6"
     }
 }
