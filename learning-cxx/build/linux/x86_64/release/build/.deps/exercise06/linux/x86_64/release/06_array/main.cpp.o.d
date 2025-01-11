@@ -13,9 +13,9 @@
             "-DNDEBUG"
         }
     },
+    depfiles_gcc = "main.o: 06_array/main.cpp 06_array/../exercise.h\
+",
     files = {
         "06_array/main.cpp"
-    },
-    depfiles_gcc = "main.o: 06_array/main.cpp 06_array/../exercise.h\
-"
+    }
 }
