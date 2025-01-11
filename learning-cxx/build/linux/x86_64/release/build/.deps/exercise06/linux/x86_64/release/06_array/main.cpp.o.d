@@ -1,9 +1,4 @@
 {
-    files = {
-        "06_array/main.cpp"
-    },
-    depfiles_gcc = "main.o: 06_array/main.cpp 06_array/../exercise.h\
-",
     values = {
         "/usr/bin/gcc",
         {
@@ -17,5 +12,10 @@
             "-fexec-charset=UTF-8",
             "-DNDEBUG"
         }
-    }
+    },
+    files = {
+        "06_array/main.cpp"
+    },
+    depfiles_gcc = "main.o: 06_array/main.cpp 06_array/../exercise.h\
+"
 }

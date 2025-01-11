@@ -26,6 +26,8 @@
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise06",
         "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise06",
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise06",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise06",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise06",
         "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise06"
     }
 }
