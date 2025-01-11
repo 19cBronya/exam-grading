@@ -1,9 +1,4 @@
 {
-    depfiles_gcc = "main.o: 05_constexpr/main.cpp 05_constexpr/../exercise.h\
-",
-    files = {
-        "05_constexpr/main.cpp"
-    },
     values = {
         "/usr/bin/gcc",
         {
@@ -17,5 +12,10 @@
             "-fexec-charset=UTF-8",
             "-DNDEBUG"
         }
+    },
+    depfiles_gcc = "main.o: 05_constexpr/main.cpp 05_constexpr/../exercise.h\
+",
+    files = {
+        "05_constexpr/main.cpp"
     }
 }
