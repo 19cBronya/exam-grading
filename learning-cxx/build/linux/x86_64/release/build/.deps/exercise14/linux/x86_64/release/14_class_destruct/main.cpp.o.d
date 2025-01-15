@@ -1,6 +1,7 @@
 {
-    depfiles_gcc = "main.o: 12_method_const/main.cpp 12_method_const/../exercise.h\
-",
+    files = {
+        "14_class_destruct/main.cpp"
+    },
     values = {
         "/usr/bin/gcc",
         {
@@ -15,7 +16,6 @@
             "-DNDEBUG"
         }
     },
-    files = {
-        "12_method_const/main.cpp"
-    }
+    depfiles_gcc = "main.o: 14_class_destruct/main.cpp 14_class_destruct/../exercise.h\
+"
 }

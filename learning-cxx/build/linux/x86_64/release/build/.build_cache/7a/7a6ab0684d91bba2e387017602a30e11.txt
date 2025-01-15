@@ -1,0 +1,9 @@
+{
+    errdata = "\27[01m\27[K13_class/main.cpp:\27[m\27[K In function ‘\27[01m\27[Kint main(int, char**)\27[m\27[K’:\
+\27[01m\27[K13_class/main.cpp:32:5:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[K‘\27[01m\27[Kfib.Fibonacci::cache[10]\27[m\27[K’ is used uninitialized [\27[01;35m\27[K-Wuninitialized\27[m\27[K]\
+   32 |     \27[01;35m\27[KAS\27[m\27[KSERT(fib.get(10) == 55, \"fibonacci(10) should be 55\");\
+      |     \27[01;35m\27[K^~\27[m\27[K\
+At global scope:\
+\27[01m\27[Kcc1plus:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kunrecognized command-line option ‘\27[01m\27[K-Wno-gnu-line-marker\27[m\27[K’ may have been intended to silence earlier diagnostics\
+"
+}

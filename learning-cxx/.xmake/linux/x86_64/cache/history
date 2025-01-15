@@ -47,6 +47,17 @@
         "xmake run learn 12",
         "xmake run learn 12",
         "xmake run learn 12",
-        "xmake run learn 12"
+        "xmake run learn 12",
+        "xmake run learn",
+        "xmake run learn 12",
+        "xmake run learn 12",
+        "xmake run learn 12",
+        "xmake run learn 12",
+        "xmake run learn 13",
+        "xmake run learn 13",
+        "xmake run learn 13",
+        "xmake run learn 14",
+        "xmake run learn 14",
+        "xmake run learn 14"
     }
 }

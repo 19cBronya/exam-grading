@@ -1,0 +1,9 @@
+{
+    errdata = "\27[01m\27[K14_class_destruct/main.cpp:\27[m\27[K In destructor ‘\27[01m\27[KDynFibonacci::~DynFibonacci()\27[m\27[K’:\
+\27[01m\27[K14_class_destruct/main.cpp:28:17:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[K‘\27[01m\27[Kvoid operator delete(void*, std::size_t)\27[m\27[K’ called on pointer ‘\27[01m\27[K<unknown>\27[m\27[K’ with nonzero offset 8 [\27[01;35m\27[K-Wfree-nonheap-object\27[m\27[K]\
+   28 |         delete &\27[01;35m\27[Kcached\27[m\27[K;\
+      |                 \27[01;35m\27[K^~~~~~\27[m\27[K\
+At global scope:\
+\27[01m\27[Kcc1plus:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kunrecognized command-line option ‘\27[01m\27[K-Wno-gnu-line-marker\27[m\27[K’ may have been intended to silence earlier diagnostics\
+"
+}

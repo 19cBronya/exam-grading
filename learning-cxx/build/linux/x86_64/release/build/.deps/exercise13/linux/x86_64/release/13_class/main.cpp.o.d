@@ -1,5 +1,8 @@
 {
-    depfiles_gcc = "main.o: 12_method_const/main.cpp 12_method_const/../exercise.h\
+    files = {
+        "13_class/main.cpp"
+    },
+    depfiles_gcc = "main.o: 13_class/main.cpp 13_class/../exercise.h\
 ",
     values = {
         "/usr/bin/gcc",
@@ -14,8 +17,5 @@
             "-fexec-charset=UTF-8",
             "-DNDEBUG"
         }
-    },
-    files = {
-        "12_method_const/main.cpp"
     }
 }
