@@ -58,6 +58,7 @@
         "xmake run learn 13",
         "xmake run learn 14",
         "xmake run learn 14",
-        "xmake run learn 14"
+        "xmake run learn 14",
+        "xmake run learn 15"
     }
 }

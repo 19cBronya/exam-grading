@@ -1,7 +1,5 @@
 {
     cmdlines = {
-        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise06",
-        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise06",
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise07",
         "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise07",
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise07",
@@ -64,6 +62,8 @@
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise14",
         "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise14",
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise14",
-        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise14"
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise14",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise15",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise15"
     }
 }
