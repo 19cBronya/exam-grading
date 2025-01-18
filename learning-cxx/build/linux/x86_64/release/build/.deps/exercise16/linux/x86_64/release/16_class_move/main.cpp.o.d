@@ -1,4 +1,9 @@
 {
+    depfiles_gcc = "main.o: 16_class_move/main.cpp 16_class_move/../exercise.h\
+",
+    files = {
+        "16_class_move/main.cpp"
+    },
     values = {
         "/usr/bin/gcc",
         {
@@ -12,10 +17,5 @@
             "-fexec-charset=UTF-8",
             "-DNDEBUG"
         }
-    },
-    files = {
-        "15_class_clone/main.cpp"
-    },
-    depfiles_gcc = "main.o: 15_class_clone/main.cpp 15_class_clone/../exercise.h\
-"
+    }
 }

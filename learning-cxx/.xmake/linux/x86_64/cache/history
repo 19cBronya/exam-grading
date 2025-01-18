@@ -1,15 +1,5 @@
 {
     cmdlines = {
-        "xmake run learn 0",
-        "xmake run learn 0",
-        "xmake run learn 1",
-        "xmake run learn 2",
-        "xmake run learn 2",
-        "xmake run learn 2",
-        "xmake run learn 2",
-        "xmake run learn 3",
-        "xmake run learn 4",
-        "xmake run learn 5",
         "xmake run learn 5",
         "xmake run learn 5",
         "xmake run learn 5",
@@ -59,6 +49,21 @@
         "xmake run learn 14",
         "xmake run learn 14",
         "xmake run learn 14",
-        "xmake run learn 15"
+        "xmake run learn 15",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 16",
+        "xmake run learn 15",
+        "xmake run learn 16"
     }
 }
