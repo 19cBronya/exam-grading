@@ -21,10 +21,13 @@ public:
         for(;cached<capacity;cached++)cache[cached]=cache[cached-1]+cache[cached-2];
     }
     // TODO: 实现移动构造器
-    DynFibonacci(DynFibonacci && rv) {
-        this->cache = rv.cache;
+    DynFibonacci(DynFibonacci && rv) :
+    cache(rv.cache)//不move的原因是，这里只是一个指针，而并非具体的对象，因此不需要move。当然move也能通过
+    ,cached(rv.cached)
+    {
+        // this->cache = rv.cache;
         rv.cache = nullptr;
-        this->cached = rv.cached;        
+        // this->cached = rv.cached;        
     }
 
     // TODO: 实现移动赋值

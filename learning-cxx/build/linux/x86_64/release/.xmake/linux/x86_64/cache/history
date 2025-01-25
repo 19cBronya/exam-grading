@@ -1,15 +1,5 @@
 {
     cmdlines = {
-        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise09",
-        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise10",
-        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise10",
-        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise10",
-        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise10",
-        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise10",
-        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise10",
-        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise11",
-        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise11",
-        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise12",
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise12",
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise12",
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise12",
@@ -63,6 +53,16 @@
         "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise15",
         "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise15",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
+        "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
+        "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
         "xmake -P /home/ava/exam-grading/learning-cxx/exercises exercise16",
         "xmake run -P /home/ava/exam-grading/learning-cxx/exercises exercise16"
     }

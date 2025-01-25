@@ -1,0 +1,9 @@
+{
+    errdata = "\27[01m\27[K16_class_move/main.cpp:\27[m\27[K In member function ‘\27[01m\27[KDynFibonacci& DynFibonacci::operator=(DynFibonacci&&)\27[m\27[K’:\
+\27[01m\27[K16_class_move/main.cpp:37:24:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kcontrol reaches end of non-void function [\27[01;35m\27[K-Wreturn-type\27[m\27[K]\
+   37 |         \27[01;35m\27[Kthis -> cached = rv.cached\27[m\27[K;\
+      |         \27[01;35m\27[K~~~~~~~~~~~~~~~^~~~~~~~~~~\27[m\27[K\
+At global scope:\
+\27[01m\27[Kcc1plus:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kunrecognized command-line option ‘\27[01m\27[K-Wno-gnu-line-marker\27[m\27[K’ may have been intended to silence earlier diagnostics\
+"
+}
