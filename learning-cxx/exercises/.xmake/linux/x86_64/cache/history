@@ -20,6 +20,9 @@
         "xmake lua /usr/share/xmake/modules/private/utils/statistics.lua --project=/home/ava/exam-grading/learning-cxx/exercises",
         "xmake lua /usr/share/xmake/actions/build/cleaner.lua --project=/home/ava/exam-grading/learning-cxx/exercises",
         "xmake lua /usr/share/xmake/modules/private/utils/statistics.lua --project=/home/ava/exam-grading/learning-cxx/exercises",
+        "xmake lua /usr/share/xmake/actions/build/cleaner.lua --project=/home/ava/exam-grading/learning-cxx/exercises",
+        "xmake lua /usr/share/xmake/modules/private/utils/statistics.lua --project=/home/ava/exam-grading/learning-cxx/exercises",
+        "xmake lua /usr/share/xmake/modules/private/utils/statistics.lua --project=/home/ava/exam-grading/learning-cxx/exercises",
         "xmake lua /usr/share/xmake/actions/build/cleaner.lua --project=/home/ava/exam-grading/learning-cxx/exercises"
     }
 }

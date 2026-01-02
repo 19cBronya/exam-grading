@@ -1,0 +1,9 @@
+{
+    errdata = "\27[01m\27[K30_std_unique_ptr/main.cpp:\27[m\27[K In function ‘\27[01m\27[Kint main(int, char**)\27[m\27[K’:\
+\27[01m\27[K30_std_unique_ptr/main.cpp:64:28:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kcomparison of integer expressions of different signedness: ‘\27[01m\27[Kint\27[m\27[K’ and ‘\27[01m\27[Kstd::vector<std::__cxx11::basic_string<char> >::size_type\27[m\27[K’ {aka ‘\27[01m\27[Klong unsigned int\27[m\27[K’} [\27[01;35m\27[K-Wsign-compare\27[m\27[K]\
+   64 |         for (auto j = 0; \27[01;35m\27[Kj < problems[i].size()\27[m\27[K; ++j) {\
+      |                          \27[01;35m\27[K~~^~~~~~~~~~~~~~~~~~~~\27[m\27[K\
+At global scope:\
+\27[01m\27[Kcc1plus:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kunrecognized command-line option ‘\27[01m\27[K-Wno-gnu-line-marker\27[m\27[K’ may have been intended to silence earlier diagnostics\
+"
+}
