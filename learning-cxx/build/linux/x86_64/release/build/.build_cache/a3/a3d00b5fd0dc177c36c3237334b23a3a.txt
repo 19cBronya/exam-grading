@@ -1,0 +1,12 @@
+{
+    errdata = "\27[01m\27[K19_class_virtual_destruct/main.cpp:\27[m\27[K In function ‘\27[01m\27[Kint main(int, char**)\27[m\27[K’:\
+\27[01m\27[K19_class_virtual_destruct/main.cpp:38:10:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kunused variable ‘\27[01m\27[Ka\27[m\27[K’ [\27[01;35m\27[K-Wunused-variable\27[m\27[K]\
+   38 |     auto \27[01;35m\27[Ka\27[m\27[K = new A;\
+      |          \27[01;35m\27[K^\27[m\27[K\
+\27[01m\27[K19_class_virtual_destruct/main.cpp:39:10:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kunused variable ‘\27[01m\27[Kb\27[m\27[K’ [\27[01;35m\27[K-Wunused-variable\27[m\27[K]\
+   39 |     auto \27[01;35m\27[Kb\27[m\27[K = new B;\
+      |          \27[01;35m\27[K^\27[m\27[K\
+At global scope:\
+\27[01m\27[Kcc1plus:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kunrecognized command-line option ‘\27[01m\27[K-Wno-gnu-line-marker\27[m\27[K’ may have been intended to silence earlier diagnostics\
+"
+}

@@ -1,0 +1,12 @@
+{
+    errdata = "\27[01m\27[K19_class_virtual_destruct/main.cpp:\27[m\27[K In function ‘\27[01m\27[Kint main(int, char**)\27[m\27[K’:\
+\27[01m\27[K19_class_virtual_destruct/main.cpp:47:5:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kdeleting object of polymorphic class type ‘\27[01m\27[KA\27[m\27[K’ which has non-virtual destructor might cause undefined behavior [\27[01;35m\27[K-Wdelete-non-virtual-dtor\27[m\27[K]\
+   47 |     \27[01;35m\27[Kdelete a\27[m\27[K;\
+      |     \27[01;35m\27[K^~~~~~~~\27[m\27[K\
+\27[01m\27[K19_class_virtual_destruct/main.cpp:62:5:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kdeleting object of polymorphic class type ‘\27[01m\27[KA\27[m\27[K’ which has non-virtual destructor might cause undefined behavior [\27[01;35m\27[K-Wdelete-non-virtual-dtor\27[m\27[K]\
+   62 |     \27[01;35m\27[Kdelete ab\27[m\27[K;// 通过指针可以删除指向的对象，即使是多态对象\
+      |     \27[01;35m\27[K^~~~~~~~~\27[m\27[K\
+At global scope:\
+\27[01m\27[Kcc1plus:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kunrecognized command-line option ‘\27[01m\27[K-Wno-gnu-line-marker\27[m\27[K’ may have been intended to silence earlier diagnostics\
+"
+}
